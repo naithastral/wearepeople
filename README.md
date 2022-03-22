@@ -1,2 +1,0 @@
-# wearepeople
-Begin app
